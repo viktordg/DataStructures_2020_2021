@@ -1,0 +1,6 @@
+IF(5 < 6 AND(9 > 10 OR 8 != 2))
+Expression is evaluated to true.
+ELSE
+Expression is not true.
+Резултат :
+Expression is evaluated to true.

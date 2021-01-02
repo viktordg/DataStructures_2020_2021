@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Bundle_problems.cpp
+d:\university\su_2020_2021\data structures\dll_problems\bundle_problems\bundle_problems\bundle_problems.cpp(121): warning C4553: '==': operator has no effect; did you intend '='?
+  Bundle_problems.vcxproj -> D:\University\SU_2020_2021\Data Structures\DLL_problems\Bundle_problems\Debug\Bundle_problems.exe

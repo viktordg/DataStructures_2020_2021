@@ -1,0 +1,3 @@
+﻿  TernTree.cpp
+d:\university\su_2020_2021\data structures\extra_problems\terntree\terntree\terntree.cpp(36): warning C4715: 'createTree<unsigned int>': not all control paths return a value
+  TernTree.vcxproj -> D:\University\SU_2020_2021\Data Structures\Extra_Problems\TernTree\Debug\TernTree.exe
